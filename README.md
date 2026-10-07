@@ -30,4 +30,5 @@ Avec son client terminal interactif **[GopherCI-CLI](https://github.com/lucaspos
 
 #### 📫 Me contacter
 
+📍 Moulins (03), France  
 ✉️ lucas.pose13@gmail.com
